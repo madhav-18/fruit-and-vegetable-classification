@@ -8,12 +8,12 @@ Usage:-
   
   Open CMD in the working directory.
   
-  Run the following command.
+  You can just run the following command.
   
-      "pip install -r requirements.txt"
+      pip install -r requirements.txt
   
   Fruits_Vegetable_Classification.py is the main Python file of Streamlit Web-Application.
   
-  To run app, write following command in CMD. or use any IDE.
+  Write the following command in CMD. or use any IDE to run the app.
   
-      "streamlit run fruitandveg.py"
+      streamlit run fruitandveg.py
